@@ -1,5 +1,5 @@
 const production = process.env.NODE_ENV === 'production'
-const clientUrl = production ? 'https://guessit-frontend.onrender.com.com' : 'http://localhost:1234' 
+const clientUrl = production ? 'https://guessit-frontend.onrender.com' : 'http://localhost:1234' 
 
 const io = require('socket.io')(3000,{
     cors:{
