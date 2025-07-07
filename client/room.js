@@ -2,7 +2,7 @@ import{io} from 'socket.io-client';
 import DrawableCanvas from './DrawableCanvas'
 
 const production = process.env.NODE_ENV === 'production'
-const serverUrl = production ? 'realsite.com' : 'http://localhost:3000' 
+const serverUrl = production ? 'https://guessit-fq2e.onrender.com' : 'http://localhost:3000' 
 const urlParams = new URLSearchParams(window.location.search)
 const name = urlParams.get('name')
 const roomId = urlParams.get('room-id')

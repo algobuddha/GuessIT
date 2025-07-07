@@ -1,6 +1,6 @@
 # Ignore node_modules in both client and server
-./client/node_modules/
-./server/node_modules/
+/client/node_modules/
+/server/node_modules/
 
 # Ignore build and cache folders in client
 client/dist/
