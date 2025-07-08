@@ -17,7 +17,7 @@ GuessIT is a real-time, multiplayer web game inspired by classic Pictionary and 
 - ⏰ **Round timer**: Keep the game fast-paced and competitive.
 - 🎉 **Word suggestions**: Choose from a set of words before drawing.
 - 🖌️ **More colors**: Ability to choose more colors.
-- 🎉 **Undo/Erase**: Ability to erase your mistakes.
+- ❌ **Undo/Erase**: Ability to erase your mistakes.
 
 
 ## 🚀 Tech Stack
