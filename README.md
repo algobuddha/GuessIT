@@ -9,12 +9,15 @@ GuessIT is a real-time, multiplayer web game inspired by classic Pictionary and 
 - ✏️ **Drawing canvas**: Draw words using a simple, smooth in-browser canvas.
 - 💬 **Real-time guessing**: Other players guess the word live as you draw.
 - 👫 **Multiplayer rooms**: Create or join game rooms to play with friends.
+- 🎨 **3 Colors**: Choose between 3 colors to draw what you want.
 
 ---
 ## ⏰ WAP features 
 - 🔥 **Scoring system**: Points awarded for correct and fast guesses.
 - ⏰ **Round timer**: Keep the game fast-paced and competitive.
 - 🎉 **Word suggestions**: Choose from a set of words before drawing.
+- 🖌️ **More colors**: Ability to choose more colors.
+- 🎉 **Undo/Erase**: Ability to erase your mistakes.
 
 
 ## 🚀 Tech Stack
